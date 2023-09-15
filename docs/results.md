@@ -2,7 +2,7 @@
 
 ## Images used in the article
 
-<img src="pics/result-paper.png" alt="evolution" style="max-width:none;">
+<img src="pics/result-paper.png" alt="evolution" style="max-width: 60%;">
 <p class="caption">Mel spectrograms of heart sounds from the dataset and synthesised using C-LDM</p>
 
 ## Audio Samples
