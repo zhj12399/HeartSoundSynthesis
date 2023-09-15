@@ -1,8 +1,8 @@
 # Results
 
-## Pianoroll Visualizations
+## Images used in the article
 
-<img src="figs/evolution.png" alt="evolution" style="max-width:none;">
+<img src="pics/result-paper.png" alt="evolution" style="max-width:none;">
 <p class="caption">Evolution of the generated pianorolls as a function of update steps</p>
 
 <img src="figs/hybrid.png" alt="hybrid" style="max-width:none;">
