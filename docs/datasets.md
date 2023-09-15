@@ -24,8 +24,8 @@ The divided audios are [here](https://github.com/zhj12399/HeartSoundSynthesis/tr
 20% of the PhysioNet dataset is divided into test sets and 80% is divided into labeled training sets.
 Unlabeled data comes from the synthesis audio.
 
-| All   |     labeled      | test |
-|-------|:----------------:|:----:|
+|  All  |     labeled      | test |
+|:-----:|:----------------:|:----:|
 | 13015 |      10412       | 2603 |
 
 配上三个音频
