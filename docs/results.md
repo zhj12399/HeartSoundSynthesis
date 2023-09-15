@@ -21,11 +21,11 @@ time steps per beat (originally 24 time steps per beat).__
 
 > No cherry-picking. Some might sound unpleasant. __Lower the volume first!__
 
-| Model    | Sample                                                               |
+|  Model   | Sample                                                               |
 |:--------:|:--------------------------------------------------------------------:|
 | composer | {% include audio_player.html filename="from_scratch_composer.mp3" %} |
 | jamming  | {% include audio_player.html filename="from_scratch_jamming.mp3" %}  |
-| hybrid   | {% include audio_player.html filename="from_scratch_hybrid.mp3" %}   |
+|  hybrid  | {% include audio_player.html filename="from_scratch_hybrid.mp3" %}   |
 
 ### Track-conditional generation
 
