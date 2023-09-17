@@ -14,7 +14,15 @@ According to the description in the paper, the denoised audios are [here](https:
 ## Training Data in Latent Diffusion Model -- Mel Spectrograms
 The Mel Spectrograms are [here](https://github.com/zhj12399/HeartSoundSynthesis/tree/main/train-data/Mel)
 
-这里横着放上4-5张图，底下配上对应的音频
+<img src="pics/Train.png" alt="evolution" style="max-width: 60%;">
+<p class="caption">Mel spectrograms of heart sounds from dataset</p>
+
+| Num |                              Sample                              |
+|:---:|:----------------------------------------------------------------:|
+|  1  | {% include audio_player.html filename="Train/fil-a0042-2.mp3" %} |
+|  2  | {% include audio_player.html filename="Train/fil-a0045-1.mp3" %} |
+|  3  | {% include audio_player.html filename="Train/fil-a0080-2.mp3" %} |
+|  4  | {% include audio_player.html filename="Train/fil-a0349-1.mp3" %} |
 
 ## Training Data in Semi-Supervised Learning -- Cropped Audios
 The Cropped Audios are [here](https://github.com/zhj12399/HeartSoundSynthesis/tree/main/train-data/Cropped)
@@ -28,7 +36,14 @@ Unlabeled data comes from the synthesis audio.
 |:-----:|:----------------:|:----:|
 | 13015 |      10412       | 2603 |
 
-配上三个音频
+> __Some Samples__ :
+
+| Num |                                Sample                                 |
+|:---:|:---------------------------------------------------------------------:|
+|  1  | {% include audio_player.html filename="Class/a0001-0-abnormal.mp3" %} |
+|  2  | {% include audio_player.html filename="Class/a0001-1-abnormal.mp3" %} |
+|  3  | {% include audio_player.html filename="Class/a0001-2-abnormal.mp3" %} |
+|  4  | {% include audio_player.html filename="Class/a0001-3-abnormal.mp3" %} |
 
 ## Reference
 

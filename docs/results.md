@@ -11,13 +11,15 @@
 
 ### Uncondition LDM
 
->  搞上一排子mel图下面是音频
+<img src="pics/Label.png" alt="evolution" style="max-width: 60%;">
+<p class="caption">Mel spectrograms of heart sounds synthesised using U-LDM</p>
 
-| Num | Sample                                                               |
-|:---:|:--------------------------------------------------------------------:|
-|  1  | {% include audio_player.html filename="from_scratch_composer.mp3" %} |
-|  2  | {% include audio_player.html filename="from_scratch_jamming.mp3" %}  |
-|  3  | {% include audio_player.html filename="from_scratch_hybrid.mp3" %}   |
+| Num |                        Sample                         |
+|:---:|:-----------------------------------------------------:|
+|  1  |  {% include audio_player.html filename="Un/4.mp3" %}  |
+|  2  | {% include audio_player.html filename="Un/17.mp3" %}  |
+|  3  | {% include audio_player.html filename="Un/103.mp3" %} |
+|  4  | {% include audio_player.html filename="Un/379.mp3" %} |
 
 ### Condition LDM - Label
 
