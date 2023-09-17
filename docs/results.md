@@ -7,7 +7,7 @@
 
 ## Audio Samples
 
-> __Note that all the audio samples are denoised.__
+> Note: __that all the audio samples are denoised.__
 
 ### Uncondition LDM
 
