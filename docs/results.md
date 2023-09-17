@@ -11,7 +11,7 @@
 
 ### Uncondition LDM
 
-<img src="pics/Label.png" alt="evolution" style="max-width: 60%;">
+<img src="pics/Un.png" alt="evolution" style="max-width: 60%;">
 <p class="caption">Mel spectrograms of heart sounds synthesised using U-LDM</p>
 
 | Num |                        Sample                         |
